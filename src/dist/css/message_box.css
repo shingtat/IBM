@@ -1,0 +1,17 @@
+.message_box-enter {
+  opacity: 0.01;
+}
+
+.message_box-enter.message_box-enter-active {
+  opacity: 1;
+  transition: opacity 1000ms ease-in;
+}
+
+.message_box-leave {
+  opacity: 1;
+}
+
+.message_box-leave.message_box-leave-active {
+  opacity: 0.0;
+  transition: opacity 1000ms ease-in;
+}
