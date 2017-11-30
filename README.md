@@ -5,7 +5,7 @@ README.md
 ***Current Status***
 1.  Working version located at reactv5 at documents/IBM/reactv5 folder
 
-2.  Stable version in staging branch of project, however JWT authentication in not fully deployed
+2.  Stable version in staging branch of project, however JWT authentication is not fully deployed
 
 3.  Refactor branch is still work in process, with JWT authentication placed
 
@@ -57,17 +57,17 @@ README.md
 
   **Explanation of Individual Files**
   #### Table of Contents:
-  1. [Index.js](#Index.js)
-  2. [App.js](#App.js)
-  3. [EmpsList](#EmpsList)
-  4. [EmpsEdit](#EmpsEdit)
-  5. [EmpsFormPage](#EmpsFormPage)
-  6. [EmpsForm](#EmpsForm)
-  7. [Input Types](#Input-Types)
-  8. [No Match/Ensure Logged In](#No-Match/Ensure-Logged-In)
-  9. [EmpsGuestPage](#EmpsGuestPage)
-  7. [JWT Explanation](#JWT-Explanation)
-  8. [Understanding ES6 Reducer Syntax/Functions](#Understanding-ES6-Reducer-Syntax/Functions)
+  1. [Index.js](#indexjs)
+  2. [App.js](#appjs)
+  3. [EmpsList](#empslist)
+  4. [EmpsEdit](#empsedit)
+  5. [EmpsFormPage](#empsformpage)
+  6. [EmpsForm](#empsform)
+  7. [Input Types](#input-types)
+  8. [No Match/Ensure Logged In](#no-matchensure-logged-in)
+  9. [EmpsGuestPage](#empsguestpage)
+  7. [JWT Explanation](#jwt-explanation)
+  8. [Understanding ES6 Reducer Syntax/Functions](#understanding-es6-reducer-syntaxfunctions)
 
 #### Index.js:
 * Where store is initialized.
